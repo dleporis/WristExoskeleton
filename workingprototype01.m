@@ -26,8 +26,6 @@ if shimmer.connect                                                      % TRUE i
     signalNameArray = shimmer.getenabledsignalnames;
 end
 
-n = 50;
-m = 50;
 bool = 1;
 plotData = [];
 while bool == 1
